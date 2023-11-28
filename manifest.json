@@ -1,0 +1,10 @@
+{
+  "background_color": "#AFCBD9",
+  "display": "standalone",
+  "homepage_url": "https://backrunme.com",
+  "orientation": "portrait",
+  "name": "BackRunMe",
+  "short_name": "BackRunMe",
+  "start_url": ".",
+  "theme_color": "#AFCBD9"
+}
