@@ -3,8 +3,8 @@
   "display": "standalone",
   "homepage_url": "https://backrunme.com",
   "orientation": "portrait",
-  "name": "BackRunMe",
-  "short_name": "BackRunMe",
+  "name": "DexGuard",
+  "short_name": "DexGuard",
   "start_url": ".",
   "theme_color": "#AFCBD9"
 }

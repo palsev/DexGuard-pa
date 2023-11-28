@@ -12064,7 +12064,7 @@
                                                 href: "https://bloxroute.com/",
                                                 target: "_blank",
                                                 rel: "noreferrer",
-                                                children: v("footer_about_te")
+                                                children: v("footer_about_bloxroute")
                                             }), Object(Ct.jsx)("a", {
                                                 href: "https://twitter.com",
                                                 rel: "noreferrer",

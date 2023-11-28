@@ -12037,14 +12037,6 @@
                             })]
                         })]
                     }), Object(Ct.jsxs)("div", {
-                        className: "guide-link",
-                        children: [v("have_questions"), Object(Ct.jsxs)("a", {
-                            href: "https://s3.amazonaws.com/files.bloxroute.com/backrunme_files/BackRunMe_+a+step-by-step+tutorial+.pdf",
-                            target: "_blank",
-                            rel: "noopener noreferrer",
-                            children: [" ", v("check_out_our_guide")]
-                        })]
-                    }), Object(Ct.jsxs)("div", {
                         className: "swapSec06",
                         children: [Object(Ct.jsx)(pd.a, {
                             children: Object(Ct.jsx)(bd.a, {
@@ -12064,7 +12056,7 @@
                                                 href: "https://bloxroute.com/",
                                                 target: "_blank",
                                                 rel: "noreferrer",
-                                                children: v("footer_about_te")
+                                                children: v("footer_about_bloxroute")
                                             }), Object(Ct.jsx)("a", {
                                                 href: "https://twitter.com",
                                                 rel: "noreferrer",
