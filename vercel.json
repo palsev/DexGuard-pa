@@ -1,0 +1,5 @@
+{
+    "redirects": [
+      { "source": "/swap", "destination": "/swap.html", "permanent": false }
+    ]
+  }
