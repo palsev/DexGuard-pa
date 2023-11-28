@@ -12061,7 +12061,7 @@
                                         span: 6,
                                         children: Object(Ct.jsxs)("div", {
                                             children: [Object(Ct.jsx)("a", {
-                                                href: "https://bloxroute.com/",
+                                                href: "https://t.me",
                                                 target: "_blank",
                                                 rel: "noreferrer",
                                                 children: v("footer_about_bloxroute")
@@ -12086,8 +12086,6 @@
                             }), Object(Ct.jsxs)("div", {
                                 className: "copy",
                                 children: [Object(Ct.jsx)("span", {
-                                    children: v("footer_backrunme_powered_by_bloxroute")
-                                }), Object(Ct.jsx)("span", {
                                     children: v("footer_all_rights_reserved_2022")
                                 })]
                             })]
@@ -12582,8 +12580,6 @@
                             }), Object(Ct.jsxs)("div", {
                                 className: "copy",
                                 children: [Object(Ct.jsx)("span", {
-                                    children: e("footer_backrunme_powered_by_bloxroute")
-                                }), Object(Ct.jsx)("span", {
                                     children: e("footer_all_rights_reserved_2022")
                                 })]
                             })]
@@ -12704,8 +12700,6 @@
                             }), Object(Ct.jsxs)("div", {
                                 className: "copy",
                                 children: [Object(Ct.jsx)("span", {
-                                    children: e("footer_backrunme_powered_by_bloxroute")
-                                }), Object(Ct.jsx)("span", {
                                     children: e("footer_all_rights_reserved_2022")
                                 })]
                             })]
